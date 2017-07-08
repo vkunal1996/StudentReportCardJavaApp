@@ -6,7 +6,7 @@
 
 /**
  *
- * @author scarletspeedster
+ * @author scarletspeedster<Kunal Verma>
  */
 class EmptyStringException extends Exception
 {
